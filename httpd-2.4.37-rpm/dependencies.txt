@@ -1,0 +1,11 @@
+libapr-1.so.0()(64bit)
+httpd-filesystem = 2.4.37-43.0.1.module+el8.5.0+20475+4f6a8fd5.1
+liblua-5.3.so()(64bit)
+httpd-filesystem
+libbrotlienc.so.1()(64bit)
+libcrypt.so.1(XCRYPT_2.0)(64bit)
+httpd-tools = 2.4.37-43.0.1.module+el8.5.0+20475+4f6a8fd5.1
+system-logos(httpd-logo-ng)
+/etc/mime.types
+libaprutil-1.so.0()(64bit)
+mod_http2
