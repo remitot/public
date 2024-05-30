@@ -9,3 +9,32 @@ system-logos(httpd-logo-ng)
 /etc/mime.types
 libaprutil-1.so.0()(64bit)
 mod_http2
+
+Error: Package: httpd-2.4.37-43.0.1.module+el8.5.0+20475+4f6a8fd5.1.x86_64 (/httpd-2.4.37-43.0.1.module+el8.5.0+20475+4f6a8fd5.1.x86_64)
+           Requires: httpd-filesystem = 2.4.37-43.0.1.module+el8.5.0+20475+4f6a8fd5.1
+Error: Package: mod_http2-1.15.7-7.module_el8.8.0+1256+e1598b50.x86_64 (/mod_http2-1.15.7-7.module_el8.8.0+1256+e1598b50.x86_64)
+           Requires: httpd >= 2.4.37-47
+Error: Package: httpd-tools-2.4.37-43.module_el8.5.0+1022+b541f3b1.x86_64 (/httpd-tools-2.4.37-43.module_el8.5.0+1022+b541f3b1.x86_64)
+           Requires: libcrypto.so.1.1(OPENSSL_1_1_0)(64bit)
+Error: Package: apr-util-1.6.1-9.el8.x86_64 (/apr-util-1.6.1-9.el8.x86_64)
+           Requires: libc.so.6(GLIBC_2.25)(64bit)
+Error: Package: libxcrypt-4.1.1-6.el8.x86_64 (/libxcrypt-4.1.1-6.el8.x86_64)
+           Requires: glibc(x86-64) >= 2.26.9000-46
+           Installed: glibc-2.17-326.el7_9.x86_64 (@Rosbank_CentOS7-os-product_CentOS7_Update_repo)
+               glibc(x86-64) = 2.17-326.el7_9
+Error: Package: httpd-tools-2.4.37-43.module_el8.5.0+1022+b541f3b1.x86_64 (/httpd-tools-2.4.37-43.module_el8.5.0+1022+b541f3b1.x86_64)
+           Requires: libcrypto.so.1.1()(64bit)
+Error: Package: mod_http2-1.15.7-7.module_el8.8.0+1256+e1598b50.x86_64 (/mod_http2-1.15.7-7.module_el8.8.0+1256+e1598b50.x86_64)
+           Requires: libnghttp2.so.14()(64bit)
+Error: Package: httpd-2.4.37-43.0.1.module+el8.5.0+20475+4f6a8fd5.1.x86_64 (/httpd-2.4.37-43.0.1.module+el8.5.0+20475+4f6a8fd5.1.x86_64)
+           Requires: httpd-tools = 2.4.37-43.0.1.module+el8.5.0+20475+4f6a8fd5.1
+Error: Package: httpd-tools-2.4.37-43.module_el8.5.0+1022+b541f3b1.x86_64 (/httpd-tools-2.4.37-43.module_el8.5.0+1022+b541f3b1.x86_64)
+           Requires: libssl.so.1.1(OPENSSL_1_1_0)(64bit)
+Error: Package: mod_http2-1.15.7-7.module_el8.8.0+1256+e1598b50.x86_64 (/mod_http2-1.15.7-7.module_el8.8.0+1256+e1598b50.x86_64)
+           Requires: libcrypto.so.1.1()(64bit)
+Error: Package: mod_http2-1.15.7-7.module_el8.8.0+1256+e1598b50.x86_64 (/mod_http2-1.15.7-7.module_el8.8.0+1256+e1598b50.x86_64)
+           Requires: libcrypto.so.1.1(OPENSSL_1_1_0)(64bit)
+Error: Package: libxcrypt-4.1.1-6.el8.x86_64 (/libxcrypt-4.1.1-6.el8.x86_64)
+           Requires: libc.so.6(GLIBC_2.25)(64bit)
+Error: Package: httpd-tools-2.4.37-43.module_el8.5.0+1022+b541f3b1.x86_64 (/httpd-tools-2.4.37-43.module_el8.5.0+1022+b541f3b1.x86_64)
+           Requires: libssl.so.1.1()(64bit)
