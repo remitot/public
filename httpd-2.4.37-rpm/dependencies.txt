@@ -1,2 +1,1 @@
-http://mirror.centos.org/centos/8-stream/AppStream/x86_64/os/Packages/mod_http2-1.15.7-5.module_el8.6.0+1111+ce6f4ceb.x86_64.rpm
-
+https://rpmfind.net/linux/centos/8-stream/BaseOS/x86_64/os/Packages/glibc-2.28-241.el8.x86_64.rpm
